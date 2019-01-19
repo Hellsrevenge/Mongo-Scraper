@@ -17,4 +17,4 @@ Mongo-Scraper is a web app that uses Mongoose and Cheerio to scrape articles fro
 - express-handlebars NPM Package
 - body-parser NPM Package NPM Package
 # Demo
-Please follow the link to [Heroku](https://mongo-scraper2019.herokuapp.com/)deployment to play with the project.
+Please follow the link to [Heroku] (https://mongo-scraper2019.herokuapp.com/)deployment to play with the project.
