@@ -1,5 +1,5 @@
 # Mongo-Scraper
-Mongo-Scraper is a web app that usesMongoose and Cheerio to scrape articles from New York Times website and allows user to leave comments on saved articles.
+Mongo-Scraper is a web app that uses Mongoose and Cheerio to scrape articles from New York Times website and allows user to leave comments on saved articles.
 ![](public/images/2.png),![](public/images/3.png),![](public/images/4.png)
 # Technologies Used
 - HTML
